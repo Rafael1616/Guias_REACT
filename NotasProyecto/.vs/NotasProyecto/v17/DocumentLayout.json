@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "Temporal\\Program.cs",
               "ToolTip": "C:\\Users\\salgu\\OneDrive\\Desktop\\Guias REACT\\NotasProyecto\\Temporal\\Program.cs",
               "RelativeToolTip": "Temporal\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwDUAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T14:13:46.487Z",
               "EditorCaption": ""
@@ -49,7 +49,7 @@
               "RelativeDocumentMoniker": "reactBackend\\Repository\\AlumnoDao.cs",
               "ToolTip": "C:\\Users\\salgu\\OneDrive\\Desktop\\Guias REACT\\NotasProyecto\\reactBackend\\Repository\\AlumnoDao.cs",
               "RelativeToolTip": "reactBackend\\Repository\\AlumnoDao.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAQwCAAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwGwAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-04T21:53:27.679Z",
               "EditorCaption": ""
@@ -64,7 +64,8 @@
               "RelativeToolTip": "reactBackend\\Context\\RegistroAlumnoContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T21:48:23.721Z"
+              "WhenOpened": "2025-03-04T21:48:23.721Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
