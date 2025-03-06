@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\salgu\\OneDrive\\Desktop\\Guias REACT\\NotasProyecto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5E024704-3C13-43B3-8B4B-48E437EA41E8}|reactBackend\\reactBackend.csproj|c:\\users\\salgu\\onedrive\\desktop\\guias react\\notasproyecto\\reactbackend\\models\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E024704-3C13-43B3-8B4B-48E437EA41E8}|reactBackend\\reactBackend.csproj|solutionrelative:reactbackend\\models\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AABFEB81-426D-49D1-A13F-449B595A0B92}|WebApi\\WebApi.csproj|c:\\users\\salgu\\onedrive\\desktop\\guias react\\notasproyecto\\webapi\\controllers\\alumnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AABFEB81-426D-49D1-A13F-449B595A0B92}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\alumnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E024704-3C13-43B3-8B4B-48E437EA41E8}|reactBackend\\reactBackend.csproj|c:\\users\\salgu\\onedrive\\desktop\\guias react\\notasproyecto\\reactbackend\\models\\alumnoprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E024704-3C13-43B3-8B4B-48E437EA41E8}|reactBackend\\reactBackend.csproj|solutionrelative:reactbackend\\models\\alumnoprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E024704-3C13-43B3-8B4B-48E437EA41E8}|reactBackend\\reactBackend.csproj|c:\\users\\salgu\\onedrive\\desktop\\guias react\\notasproyecto\\reactbackend\\repository\\alumnodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E024704-3C13-43B3-8B4B-48E437EA41E8}|reactBackend\\reactBackend.csproj|solutionrelative:reactbackend\\repository\\alumnodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AABFEB81-426D-49D1-A13F-449B595A0B92}|WebApi\\WebApi.csproj|c:\\users\\salgu\\onedrive\\desktop\\guias react\\notasproyecto\\webapi\\controllers\\profesorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,18 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5E024704-3C13-43B3-8B4B-48E437EA41E8}|reactBackend\\reactBackend.csproj|c:\\users\\salgu\\onedrive\\desktop\\guias react\\notasproyecto\\reactbackend\\repository\\profesordao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E024704-3C13-43B3-8B4B-48E437EA41E8}|reactBackend\\reactBackend.csproj|solutionrelative:reactbackend\\repository\\profesordao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AABFEB81-426D-49D1-A13F-449B595A0B92}|WebApi\\WebApi.csproj|c:\\users\\salgu\\onedrive\\desktop\\guias react\\notasproyecto\\webapi\\controllers\\pruebacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AABFEB81-426D-49D1-A13F-449B595A0B92}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\pruebacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E024704-3C13-43B3-8B4B-48E437EA41E8}|reactBackend\\reactBackend.csproj|c:\\users\\salgu\\onedrive\\desktop\\guias react\\notasproyecto\\reactbackend\\models\\alumnoasignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E024704-3C13-43B3-8B4B-48E437EA41E8}|reactBackend\\reactBackend.csproj|solutionrelative:reactbackend\\models\\alumnoasignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E024704-3C13-43B3-8B4B-48E437EA41E8}|reactBackend\\reactBackend.csproj|c:\\users\\salgu\\onedrive\\desktop\\guias react\\notasproyecto\\reactbackend\\repository\\alumnodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E024704-3C13-43B3-8B4B-48E437EA41E8}|reactBackend\\reactBackend.csproj|solutionrelative:reactbackend\\repository\\alumnodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,83 +30,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Profesor.cs",
-              "DocumentMoniker": "C:\\Users\\salgu\\OneDrive\\Desktop\\Guias REACT\\NotasProyecto\\reactBackend\\Models\\Profesor.cs",
-              "RelativeDocumentMoniker": "reactBackend\\Models\\Profesor.cs",
-              "ToolTip": "C:\\Users\\salgu\\OneDrive\\Desktop\\Guias REACT\\NotasProyecto\\reactBackend\\Models\\Profesor.cs",
-              "RelativeToolTip": "reactBackend\\Models\\Profesor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "AlumnoProfesor.cs",
+              "DocumentMoniker": "C:\\Users\\salgu\\OneDrive\\Desktop\\Guias REACT\\NotasProyecto\\reactBackend\\Models\\AlumnoProfesor.cs",
+              "RelativeDocumentMoniker": "reactBackend\\Models\\AlumnoProfesor.cs",
+              "ToolTip": "C:\\Users\\salgu\\OneDrive\\Desktop\\Guias REACT\\NotasProyecto\\reactBackend\\Models\\AlumnoProfesor.cs",
+              "RelativeToolTip": "reactBackend\\Models\\AlumnoProfesor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T23:19:24.207Z",
+              "WhenOpened": "2025-03-06T01:54:59.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlumnoController.cs",
+              "DocumentMoniker": "C:\\Users\\salgu\\OneDrive\\Desktop\\Guias REACT\\NotasProyecto\\WebApi\\Controllers\\AlumnoController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\AlumnoController.cs",
+              "ToolTip": "C:\\Users\\salgu\\OneDrive\\Desktop\\Guias REACT\\NotasProyecto\\WebApi\\Controllers\\AlumnoController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\AlumnoController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T01:32:40.815Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ProfesorDao.cs",
-              "DocumentMoniker": "C:\\Users\\salgu\\OneDrive\\Desktop\\Guias REACT\\NotasProyecto\\reactBackend\\Repository\\ProfesorDao.cs",
-              "RelativeDocumentMoniker": "reactBackend\\Repository\\ProfesorDao.cs",
-              "ToolTip": "C:\\Users\\salgu\\OneDrive\\Desktop\\Guias REACT\\NotasProyecto\\reactBackend\\Repository\\ProfesorDao.cs",
-              "RelativeToolTip": "reactBackend\\Repository\\ProfesorDao.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "Title": "AlumnoDao.cs",
+              "DocumentMoniker": "C:\\Users\\salgu\\OneDrive\\Desktop\\Guias REACT\\NotasProyecto\\reactBackend\\Repository\\AlumnoDao.cs",
+              "RelativeDocumentMoniker": "reactBackend\\Repository\\AlumnoDao.cs",
+              "ToolTip": "C:\\Users\\salgu\\OneDrive\\Desktop\\Guias REACT\\NotasProyecto\\reactBackend\\Repository\\AlumnoDao.cs",
+              "RelativeToolTip": "reactBackend\\Repository\\AlumnoDao.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAQwIsAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T23:01:16.622Z",
+              "WhenOpened": "2025-03-04T21:53:27.679Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ProfesorController.cs",
               "DocumentMoniker": "C:\\Users\\salgu\\OneDrive\\Desktop\\Guias REACT\\NotasProyecto\\WebApi\\Controllers\\ProfesorController.cs",
               "RelativeDocumentMoniker": "WebApi\\Controllers\\ProfesorController.cs",
               "ToolTip": "C:\\Users\\salgu\\OneDrive\\Desktop\\Guias REACT\\NotasProyecto\\WebApi\\Controllers\\ProfesorController.cs",
               "RelativeToolTip": "WebApi\\Controllers\\ProfesorController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T22:58:27.724Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PruebaController.cs",
-              "DocumentMoniker": "C:\\Users\\salgu\\OneDrive\\Desktop\\Guias REACT\\NotasProyecto\\WebApi\\Controllers\\PruebaController.cs",
-              "RelativeDocumentMoniker": "WebApi\\Controllers\\PruebaController.cs",
-              "ToolTip": "C:\\Users\\salgu\\OneDrive\\Desktop\\Guias REACT\\NotasProyecto\\WebApi\\Controllers\\PruebaController.cs",
-              "RelativeToolTip": "WebApi\\Controllers\\PruebaController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T22:41:52.914Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "AlumnoAsignatura.cs",
-              "DocumentMoniker": "C:\\Users\\salgu\\OneDrive\\Desktop\\Guias REACT\\NotasProyecto\\reactBackend\\Models\\AlumnoAsignatura.cs",
-              "RelativeDocumentMoniker": "reactBackend\\Models\\AlumnoAsignatura.cs",
-              "ToolTip": "C:\\Users\\salgu\\OneDrive\\Desktop\\Guias REACT\\NotasProyecto\\reactBackend\\Models\\AlumnoAsignatura.cs",
-              "RelativeToolTip": "reactBackend\\Models\\AlumnoAsignatura.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIAwwAoAAAAWAAAAAAAAAA==",
+              "Title": "ProfesorDao.cs",
+              "DocumentMoniker": "C:\\Users\\salgu\\OneDrive\\Desktop\\Guias REACT\\NotasProyecto\\reactBackend\\Repository\\ProfesorDao.cs",
+              "RelativeDocumentMoniker": "reactBackend\\Repository\\ProfesorDao.cs",
+              "ToolTip": "C:\\Users\\salgu\\OneDrive\\Desktop\\Guias REACT\\NotasProyecto\\reactBackend\\Repository\\ProfesorDao.cs",
+              "RelativeToolTip": "reactBackend\\Repository\\ProfesorDao.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBQAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T18:13:48.533Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AlumnoDao.cs",
-              "DocumentMoniker": "C:\\Users\\salgu\\OneDrive\\Desktop\\Guias REACT\\NotasProyecto\\reactBackend\\Repository\\AlumnoDao.cs",
-              "RelativeDocumentMoniker": "reactBackend\\Repository\\AlumnoDao.cs",
-              "ToolTip": "C:\\Users\\salgu\\OneDrive\\Desktop\\Guias REACT\\NotasProyecto\\reactBackend\\Repository\\AlumnoDao.cs",
-              "RelativeToolTip": "reactBackend\\Repository\\AlumnoDao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHoAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T21:53:27.679Z"
+              "WhenOpened": "2025-03-05T23:01:16.622Z",
+              "EditorCaption": ""
             }
           ]
         }
