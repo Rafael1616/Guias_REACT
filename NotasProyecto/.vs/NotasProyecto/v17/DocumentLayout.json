@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{AABFEB81-426D-49D1-A13F-449B595A0B92}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\alumnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E024704-3C13-43B3-8B4B-48E437EA41E8}|reactBackend\\reactBackend.csproj|c:\\users\\salgu\\onedrive\\desktop\\guias react\\notasproyecto\\reactbackend\\models\\alumnoprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E024704-3C13-43B3-8B4B-48E437EA41E8}|reactBackend\\reactBackend.csproj|solutionrelative:reactbackend\\models\\alumnoprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5E024704-3C13-43B3-8B4B-48E437EA41E8}|reactBackend\\reactBackend.csproj|c:\\users\\salgu\\onedrive\\desktop\\guias react\\notasproyecto\\reactbackend\\repository\\alumnodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E024704-3C13-43B3-8B4B-48E437EA41E8}|reactBackend\\reactBackend.csproj|solutionrelative:reactbackend\\repository\\alumnodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E024704-3C13-43B3-8B4B-48E437EA41E8}|reactBackend\\reactBackend.csproj|c:\\users\\salgu\\onedrive\\desktop\\guias react\\notasproyecto\\reactbackend\\models\\alumnoprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E024704-3C13-43B3-8B4B-48E437EA41E8}|reactBackend\\reactBackend.csproj|solutionrelative:reactbackend\\models\\alumnoprofesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AABFEB81-426D-49D1-A13F-449B595A0B92}|WebApi\\WebApi.csproj|c:\\users\\salgu\\onedrive\\desktop\\guias react\\notasproyecto\\webapi\\controllers\\profesorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +34,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AlumnoProfesor.cs",
               "DocumentMoniker": "C:\\Users\\salgu\\OneDrive\\Desktop\\Guias REACT\\NotasProyecto\\reactBackend\\Models\\AlumnoProfesor.cs",
               "RelativeDocumentMoniker": "reactBackend\\Models\\AlumnoProfesor.cs",
@@ -42,8 +42,7 @@
               "RelativeToolTip": "reactBackend\\Models\\AlumnoProfesor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T01:54:59.459Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T01:54:59.459Z"
             },
             {
               "$type": "Document",
@@ -53,20 +52,20 @@
               "RelativeDocumentMoniker": "WebApi\\Controllers\\AlumnoController.cs",
               "ToolTip": "C:\\Users\\salgu\\OneDrive\\Desktop\\Guias REACT\\NotasProyecto\\WebApi\\Controllers\\AlumnoController.cs",
               "RelativeToolTip": "WebApi\\Controllers\\AlumnoController.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAxwCYAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-06T01:32:40.815Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "AlumnoDao.cs",
               "DocumentMoniker": "C:\\Users\\salgu\\OneDrive\\Desktop\\Guias REACT\\NotasProyecto\\reactBackend\\Repository\\AlumnoDao.cs",
               "RelativeDocumentMoniker": "reactBackend\\Repository\\AlumnoDao.cs",
               "ToolTip": "C:\\Users\\salgu\\OneDrive\\Desktop\\Guias REACT\\NotasProyecto\\reactBackend\\Repository\\AlumnoDao.cs",
               "RelativeToolTip": "reactBackend\\Repository\\AlumnoDao.cs",
-              "ViewState": "AgIAAH8AAAAAAAAAAAAQwIsAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAgwJYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-04T21:53:27.679Z",
               "EditorCaption": ""
@@ -81,8 +80,7 @@
               "RelativeToolTip": "WebApi\\Controllers\\ProfesorController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T22:58:27.724Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T22:58:27.724Z"
             },
             {
               "$type": "Document",
@@ -94,8 +92,7 @@
               "RelativeToolTip": "reactBackend\\Repository\\ProfesorDao.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwBQAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T23:01:16.622Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T23:01:16.622Z"
             }
           ]
         }

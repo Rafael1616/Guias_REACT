@@ -21,5 +21,24 @@ namespace WebApi.Controllers
         }
         #endregion
 
+        #region SelectById
+        [HttpGet("alumno")]
+
+        public Alumno selectById(int id)
+        {
+            var alumno = _dao.GetById(id);
+            return alumno;
+        }
+        #endregion
+
+        #region actualizarDatos
+        [HttpPut("alumno")]
+
+        public bool actualizarAlumno([FromBody] Alumno alumno)
+        {
+            return _dao.update(alumno.Id, alumno);
+        }
+        #endregion
+
     }
 }
