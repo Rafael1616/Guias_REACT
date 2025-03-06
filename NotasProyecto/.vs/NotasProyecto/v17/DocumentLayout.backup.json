@@ -42,8 +42,7 @@
               "RelativeToolTip": "reactBackend\\Models\\AlumnoProfesor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T01:54:59.459Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-06T01:54:59.459Z"
             },
             {
               "$type": "Document",
@@ -53,7 +52,7 @@
               "RelativeDocumentMoniker": "WebApi\\Controllers\\AlumnoController.cs",
               "ToolTip": "C:\\Users\\salgu\\OneDrive\\Desktop\\Guias REACT\\NotasProyecto\\WebApi\\Controllers\\AlumnoController.cs",
               "RelativeToolTip": "WebApi\\Controllers\\AlumnoController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACoAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAADgAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-06T01:32:40.815Z",
               "EditorCaption": ""
@@ -66,7 +65,7 @@
               "RelativeDocumentMoniker": "reactBackend\\Repository\\AlumnoDao.cs",
               "ToolTip": "C:\\Users\\salgu\\OneDrive\\Desktop\\Guias REACT\\NotasProyecto\\reactBackend\\Repository\\AlumnoDao.cs",
               "RelativeToolTip": "reactBackend\\Repository\\AlumnoDao.cs",
-              "ViewState": "AgIAAHEAAAAAAAAAAAAcwNwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAOwAAAAAAAAAAAAgwPgAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-04T21:53:27.679Z",
               "EditorCaption": ""
@@ -81,8 +80,7 @@
               "RelativeToolTip": "WebApi\\Controllers\\ProfesorController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T22:58:27.724Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T22:58:27.724Z"
             },
             {
               "$type": "Document",
@@ -94,8 +92,7 @@
               "RelativeToolTip": "reactBackend\\Repository\\ProfesorDao.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T23:01:16.622Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T23:01:16.622Z"
             }
           ]
         }

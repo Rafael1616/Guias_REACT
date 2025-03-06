@@ -49,5 +49,14 @@ namespace WebApi.Controllers
         }
         #endregion
 
+        #region deleteAlumno
+        [HttpDelete("alumno")]
+
+        public bool eliminarAlumno(int id)
+        {
+            return _dao.eliminarAlumno(id);
+        }
+        #endregion
+
     }
 }
